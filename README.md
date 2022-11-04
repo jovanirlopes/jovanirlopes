@@ -2,6 +2,7 @@
 #### :alien: Meu nome é  Jovanir Lopes e sou:
 - :man_student: Tecnologo em analise e desenvolvimento de sistemas por formação:space_invader::white_check_mark:
 - :man_student: Agilista por especialização:runner::white_check_mark:
+- :man_student: Designer de UX por pós-graduação:framed_picture::beginner:
 - :office_worker: Gerente de tecnologia por profissão:astronaut::white_check_mark:
 - :technologist: Desenvolvedor por paixão:heart::infinity: 
 
