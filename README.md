@@ -6,7 +6,7 @@
 - :man_student: Pratica de Metodologias Ágeis:runner::white_check_mark:
 - :man_student: Designer de UX:framed_picture::beginner:
 #### Profissão
-- :office_worker: Gerente de tecnologia por profissão:astronaut::white_check_mark:
+- :office_worker: Gerente de tecnologia:astronaut::white_check_mark:
 - :technologist: Desenvolvedor:heart::infinity: 
 
 
