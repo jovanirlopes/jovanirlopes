@@ -1,5 +1,5 @@
 ## 👋Salve salve
-#### :alien: Meu nome é  Jovanir Lopes e sou:
+#### :alien: Meu nome é  Jovanir Lopes:
 #### Formação
 - :man_student: Tecnologo em analise e desenvolvimento:space_invader::white_check_mark:
 #### Pos graduação
