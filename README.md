@@ -1,7 +1,7 @@
 ## 👋Salve salve
 #### :alien: Meu nome é  Jovanir Lopes:
 #### Formação
-- :man_student: Tecnologo em analise e desenvolvimento:space_invader::white_check_mark:
+- :man_student: Tecnologo em Análise e Desenvolvimento de Sistemas:space_invader::white_check_mark:
 #### Pos graduação
 - :man_student: Pratica de Metodologias Ágeis:runner::white_check_mark:
 - :man_student: Designer de UX:framed_picture::beginner:
